@@ -1,0 +1,14 @@
+.UpBotton {
+    position: fixed;
+    z-index: 999;
+    right: 20px;
+    bottom: 70px;
+
+    padding: 10px 5px;
+    transition: .4s;
+    opacity: 0.7;
+    border-radius: 5px !important;
+}
+.UpBotton:hover{
+    opacity: 1;
+}

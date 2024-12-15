@@ -1,0 +1,23 @@
+@media (max-width: 1000px){
+    .smallSlider {
+        width: 30% !important;
+    }
+    .bigSlider{
+        width: 70% !important;
+    }
+    .bigImg{
+        height: 300px !important;
+    }
+    .smallImg{
+        height: 150px !important;
+    }
+}
+
+@media (max-width: 1000px){
+    .smallSlider {
+        display: none;
+    }
+    .bigSlider{
+        width: 100% !important;
+    }
+}

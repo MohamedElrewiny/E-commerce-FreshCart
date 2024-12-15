@@ -1,0 +1,8 @@
+@media(max-width: 768px){
+    .mediainput{
+        flex-direction: column;
+    }
+    .mediainput div{
+        width: 100% !important;
+    }
+}
